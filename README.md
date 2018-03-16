@@ -17,3 +17,5 @@ This is not a very well made project, I make this mainly for my personal use rep
 
 ### Notes
 *The literal and graphical information presented on this site about Kingdom Come: Deliverance, including images and text, is copyright and property of Warhorse Studios.*
+
+Game developers are notified of this and no problem :)
