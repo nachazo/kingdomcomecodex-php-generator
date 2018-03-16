@@ -6,7 +6,7 @@ PHP script to convert XML lang files from Kingdom Come: Deliverance Codex to web
 ### About
 In sum, using various XML files (for texts, categories, images, etc) it makes a single html and then one html for each language that be loaded asynchronously with jquery in the first one. The with ob php functions, I save the html instead showing. Then, the html uses a lot of jquery and css3 for a (hope) nice design.
 
-This is not a very well made project, I make this mainly for repository purposes and not lost this work.
+This is not a very well made project, I make this mainly for my personal use repository purposes and not lost this work.
 
 ### Remember
 * In config.php you may put the ouput folder in "$folder".
@@ -14,3 +14,6 @@ This is not a very well made project, I make this mainly for repository purposes
 * Remember to give write permissions in the folders (<code>chmod -R 777 folder/</code>).
 * There are a folder "common-media" that contains what "media" folder in output where placed. It's important because contains the css file and images that will copy to output.
 * Most js is in the bottom of the page (<code>view_footer.php</code>).
+
+### Notes
+*The literal and graphical information presented on this site about Kingdom Come: Deliverance, including images and text, is copyright and property of Warhorse Studios.*
