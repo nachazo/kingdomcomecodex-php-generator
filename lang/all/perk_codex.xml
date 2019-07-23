@@ -239,6 +239,19 @@
       <row codex_ui_image="" codex_ui_layout_id="0" codex_ui_page_id="0" codex_ui_text="ui_codex_cont_cestovani" default_learned="False" perk_id="fffd2b9b-188b-4dbd-8cd4-a57747cade77" />
       <row codex_ui_image="" codex_ui_layout_id="0" codex_ui_page_id="5" codex_ui_text="ui_tutorial_cont_combat_basic" default_learned="False" perk_id="3e69e852-2bb6-44c4-8e6a-be659a4ff496" />
       <row codex_ui_image="" codex_ui_layout_id="0" codex_ui_page_id="5" codex_ui_text="ui_tutorial_cont_combat_advance" default_learned="False" perk_id="3e69e852-2bb6-44c4-8e6a-be659a4ff496" />
-    </rows>
+      <row codex_ui_image="" codex_ui_layout_id="1" codex_ui_page_id="2" codex_ui_text="ui_codex_cont_crisis_middle_age" default_learned="False" perk_id="75cd2efe-4648-4161-a7c6-368f505b4d57" />
+      <row codex_ui_image="" codex_ui_layout_id="2" codex_ui_page_id="4" codex_ui_text="ui_codex_cont_inquisition" default_learned="False" perk_id="be6b5368-f936-4543-a2c3-e7a48815cec0" />
+      <row codex_ui_image="character_jaroslav" codex_ui_layout_id="2" codex_ui_page_id="4" codex_ui_text="ui_codex_char_jaroslav" default_learned="False" perk_id="838339fc-c61b-4b75-9370-11b74b53158f" />
+      <row codex_ui_image="character_matej" codex_ui_layout_id="2" codex_ui_page_id="4" codex_ui_text="ui_codex_char_matej" default_learned="False" perk_id="838339fc-c61b-4b75-9370-11b74b53158f" />
+      <row codex_ui_image="" codex_ui_layout_id="2" codex_ui_page_id="4" codex_ui_text="ui_codex_cont_pilgrim" default_learned="False" perk_id="be6b5368-f936-4543-a2c3-e7a48815cec0" />
+      <row codex_ui_image="" codex_ui_layout_id="2" codex_ui_page_id="4" codex_ui_text="ui_codex_cont_trojilid" default_learned="False" perk_id="be6b5368-f936-4543-a2c3-e7a48815cec0" />
+      <row codex_ui_image="zul" codex_ui_layout_id="2" codex_ui_page_id="4" codex_ui_text="ui_codex_cont_zul" default_learned="True" perk_id="1e568c3b-fa81-42f9-8f74-a007f5204822" />
+      <row codex_ui_image="" codex_ui_layout_id="0" codex_ui_page_id="5" codex_ui_text="ui_tutorial_cont_hardcore_combat_advance" default_learned="False" perk_id="8ddbe313-e988-4442-a552-d1761a4b28f2" />
+      <row codex_ui_image="" codex_ui_layout_id="0" codex_ui_page_id="5" codex_ui_text="ui_tutorial_cont_hardcore_combat_basic" default_learned="False" perk_id="8ddbe313-e988-4442-a552-d1761a4b28f2" />
+      <row codex_ui_image="" codex_ui_layout_id="0" codex_ui_page_id="5" codex_ui_text="ui_tutorial_cont_hardcore_horse" default_learned="False" perk_id="8ddbe313-e988-4442-a552-d1761a4b28f2" />
+      <row codex_ui_image="" codex_ui_layout_id="0" codex_ui_page_id="5" codex_ui_text="ui_tutorial_cont_hardcore_injury" default_learned="False" perk_id="8ddbe313-e988-4442-a552-d1761a4b28f2" />
+      <row codex_ui_image="" codex_ui_layout_id="0" codex_ui_page_id="5" codex_ui_text="ui_tutorial_cont_hardcore_mode" default_learned="False" perk_id="8ddbe313-e988-4442-a552-d1761a4b28f2" />
+      <row codex_ui_image="" codex_ui_layout_id="0" codex_ui_page_id="5" codex_ui_text="ui_tutorial_cont_tournament" default_learned="False" perk_id="8ddbe313-e988-4442-a552-d1761a4b28f2" />
+	</rows>
   </table>
 </database>
